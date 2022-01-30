@@ -1,7 +1,7 @@
 # Styles
 1} Blur_Animation :-             
-1- https://omdahale01.github.io/Styles/Blur_Animation/T1/                
-2- https://omdahale01.github.io/Styles/Blur_Animation/T2/           
+1- https://omdahale01.github.io/Styles/Blur_Animation/Hover_View/                
+2- https://omdahale01.github.io/Styles/Blur_Animation/Blur_Div/           
 3- https://omdahale01.github.io/Styles/Blur_Animation/Bubble-Back/
            
 2} Text_Animation :-                    
