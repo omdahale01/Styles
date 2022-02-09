@@ -11,12 +11,12 @@
 3} Loading_Animation :-      
 1- https://omdahale01.github.io/Styles/Loading_Animation/Round_Loop/
 
-3} Loading_Animation :-     
+3} Slider :-     
 1- https://omdahale01.github.io/Styles/Slider/           
 
 4} Shapes :-                  
 1- https://omdahale01.github.io/Styles/Shapes/Heart-Beat/              
 2- https://omdahale01.github.io/Styles/Shapes/Pulsing_Effect             
-3- https://omdahale01.github.io/Styles/Shapes/Round-Border/                       
+3- https://omdahale01.github.io/Styles/Shapes/Round-Border/            
 4- https://omdahale01.github.io/Styles/Shapes/Abstract_Background_Design/
 
