@@ -2,7 +2,7 @@
 # CSS Components
 Some of thge best awesome components . made with HTML, CSS, JavaScript.
 
-## API Reference
+
 
 #### Get all items
 
